@@ -1,0 +1,73 @@
+{
+  "name": "SondaMQ.UI",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aspnet/signalr": "^1.1.4",
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^3.0.0-alpha.30",
+    "@types/classnames": "^2.2.7",
+    "@types/jest": "24.0.11",
+    "@types/lodash": "^4.14.123",
+    "@types/node": "11.13.4",
+    "@types/react": "^16.8.13",
+    "@types/react-chartjs-2": "^2.5.7",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-maskedinput": "^4.0.4",
+    "@types/react-redux": "^7.0.6",
+    "@types/react-router-dom": "^4.3.2",
+    "@types/react-select": "^2.0.17",
+    "@types/react-sortable-tree": "^0.3.6",
+    "@types/react-text-mask": "^5.4.4",
+    "@types/redux": "^3.6.0",
+    "@types/styled-components": "^4.1.14",
+    "axios": "^0.18.0",
+    "chart.js": "^2.8.0",
+    "classnames": "^2.2.6",
+    "jquery": "^3.4.1",
+    "jss-rtl": "^0.2.3",
+    "lodash": "^4.17.11",
+    "material-table": "^1.35.0",
+    "mui-datatables": "^2.0.0-beta.59",
+    "natural-drag-animation-rbdnd": "^2.0.1",
+    "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
+    "react-dnd": "^7.4.5",
+    "react-dnd-html5-backend": "^7.4.4",
+    "react-dom": "^16.8.6",
+    "react-dropdown-tree-select": "^1.19.0",
+    "react-format-number": "^1.3.1",
+    "react-maskedinput": "^4.0.1",
+    "react-redux": "^7.0.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-select": "^2.4.3",
+    "react-simple-tree-menu": "^1.0.5",
+    "react-smooth-dnd": "^0.11.0",
+    "react-sortable-tree": "^2.6.2",
+    "react-text-mask": "^5.4.3",
+    "redux": "^4.0.1",
+    "styled-components": "^4.2.0",
+    "typescript": "3.4.3"
+  },
+  "homepage": "/SondaMQ_UI",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/react-router-dom": "^4.3.2"
+  }
+}
